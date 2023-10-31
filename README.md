@@ -1,1 +1,1 @@
-Projeto para treinamento e conhecimento do github
+Repositório para os certificados de conclusão de cursos
